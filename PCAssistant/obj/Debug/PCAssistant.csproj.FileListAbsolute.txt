@@ -1,0 +1,10 @@
+G:\My Documents\Git\PCAssistant\PCAssistant\PCAssistant\bin\Debug\PCAssistant.exe.config
+G:\My Documents\Git\PCAssistant\PCAssistant\PCAssistant\bin\Debug\PCAssistant.exe
+G:\My Documents\Git\PCAssistant\PCAssistant\PCAssistant\bin\Debug\PCAssistant.pdb
+G:\My Documents\Git\PCAssistant\PCAssistant\PCAssistant\obj\Debug\PCAssistant.csprojResolveAssemblyReference.cache
+G:\My Documents\Git\PCAssistant\PCAssistant\PCAssistant\obj\Debug\PCAssistant.frmMain.resources
+G:\My Documents\Git\PCAssistant\PCAssistant\PCAssistant\obj\Debug\PCAssistant.Properties.Resources.resources
+G:\My Documents\Git\PCAssistant\PCAssistant\PCAssistant\obj\Debug\PCAssistant.csproj.GenerateResource.Cache
+G:\My Documents\Git\PCAssistant\PCAssistant\PCAssistant\obj\Debug\PCAssistant.csproj.CoreCompileInputs.cache
+G:\My Documents\Git\PCAssistant\PCAssistant\PCAssistant\obj\Debug\PCAssistant.exe
+G:\My Documents\Git\PCAssistant\PCAssistant\PCAssistant\obj\Debug\PCAssistant.pdb
